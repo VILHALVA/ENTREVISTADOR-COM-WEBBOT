@@ -70,5 +70,5 @@ O **Bot Entrevistador** é uma aplicação interativa projetada para simular uma
 
 ## CREDITOS:
 - [INTERFACE FOI BASEADO NO "CONVERSADOR NA WEB"](https://github.com/VILHALVA/CONVERSADOR-NA-WEB)
-- [AS PERGUNTAS FORAM BASEADAS NO "ENTREVISTA.py" DA VERSÃO 2.5 DO GNOSES](https://github.com/VILHALVA/GNOSES)
+- [AS PERGUNTAS FORAM BASEADAS NA "ENTREVISTA" DO GNOSES](https://github.com/VILHALVA/GNOSES)
 - [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
