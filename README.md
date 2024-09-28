@@ -1,9 +1,9 @@
 # ENTREVISTADOR COM WEBBOT
 👨‍🏫O BOT ENTREVISTADOR SIMULA ENTREVISTAS DE FORMA INTERATIVA, OFERECE FEEDBACK E PERMITE O DOWNLOAD DE UM RELATÓRIO COM AS RESPOSTAS.
 
-<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_01.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_02.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_03.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 O **Bot Entrevistador** é uma aplicação interativa projetada para simular uma entrevista. Ele faz uma série de perguntas ao usuário e fornece comentários personalizados com base nas respostas. Ao final da entrevista, o bot gera um relatório com as informações coletadas, que pode ser baixado como um arquivo de texto. Este bot pode ser utilizado para fins educacionais, de prática ou para entender melhor como funcionam entrevistas.
@@ -34,6 +34,8 @@ O **Bot Entrevistador** é uma aplicação interativa projetada para simular uma
      - Sua localização.
      - Seu trabalho.
      - Sua escolaridade.
+     - Sua experiêcia.
+     - Suas metas.
    - O usuário deve responder a cada pergunta digitando sua resposta e pressionando "Enviar" ou a tecla "Enter".
 
 3. **Receba Comentários:**
@@ -56,9 +58,31 @@ O **Bot Entrevistador** é uma aplicação interativa projetada para simular uma
 - **Bot**: "🌎Excelente!!!"
 - **Usuário**: "Desenvolvedor"
 - **Bot**: "🙌Que bom!!!"
-- **Usuário**: "Sim"
-- **Bot**: "👏PARABÉNS!!!"
-- **Bot**: "🌟 **RELATÓRIO DA ENTREVISTA:** ..."
+- **Usuário**: "Ensino Médio"
+- **Bot**: "👏Parabéns por completar o Ensino Médio!"
+- **Usuário**: "Me tornar um especialista em desenvolvimento."
+- **Bot**: "☺️Com estudo e dedicação, você vai alcançar suas metas!"
+- **Usuário**: "Tenho 2 anos de experiência."
+- **Bot**: "⚡A cada dia, um novo aprendizado!"
+- **Bot**: 
+   ```
+   ======================================================
+        🔵RELATÓRIO DA ENTREVISTA:
+   ------------------------------------------------------
+        ⭐️TIME -> 28/09/2024, 14:35:12  
+        ⭐️NOME -> LUCAS
+        ⭐️SEXO -> HOMEM 
+        ⭐️IDADE -> 25 
+        ⭐️LOCALIZAÇÃO -> SÃO PAULO 
+        ⭐️TRABALHO -> DESENVOLVEDOR 
+        ⭐️ESCOLARIDADE -> ENSINO MÉDIO
+        ⭐️METAS -> ME TORNAR UM ESPECIALISTA EM DESENVOLVIMENTO  
+        ⭐️EXPERIÊNCIA -> TENHO 2 ANOS DE EXPERIÊNCIA
+        ⭐️RESULTADO FINAL => 👍APROVADO
+   --------------------------------------------------------
+   ========================================================
+   ```
+
 - **Bot**: (Abaixo do relatório) "Clique em SALVAR para baixar o relatório."
 
 ## NÃO SABE?
